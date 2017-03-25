@@ -1,0 +1,63 @@
+.main{
+    padding-top: 100px;
+    background-color: #f6f8f8;
+    font-family: 'Abel', sans-serif;
+}
+
+hr{
+    width: 80%;
+}
+
+.section-title{
+    text-align: center;
+}
+
+.channel{
+    margin-bottom:30px;
+}
+
+.logo{
+    height:30px;
+}
+
+a { color: black; } 
+
+.nav-link{
+    color: #f9301c;
+}
+.navbar{
+    font-family: 'Abel', sans-serif;
+    background-color: black;
+    color: black;
+}
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    bottom: 0;
+    width: 80%;
+    color: white;
+    background-color: black;
+    opacity: 0.5;
+}
+
+.hamburger{
+    background-color: white;
+    margin-top:15px;
+}
+
+.carousel{
+    font-family: 'Roboto', sans-serif;
+}
+
+.news-logo{
+    text-align: center;
+    padding:20px;
+    margin: auto;
+}
+
+.logo{
+    height":70px;
+}
